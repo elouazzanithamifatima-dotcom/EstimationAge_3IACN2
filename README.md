@@ -1,5 +1,4 @@
-# Classification Multiclasse d'Images Faciales pour
-l'Estimation de l'Âge via EfficientNetB3 Fine-Tuné
+# Classification Multiclasse d'Images Faciales pour l'Estimation de l'Âge via EfficientNetB3 Fine-Tuné
 
 **Filière :** 3IACN2 — ENSA de Fès  
 **Auteurs :** Ikram Boukhabza & Fatima El Ouazzani Thami  
