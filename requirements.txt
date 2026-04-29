@@ -1,0 +1,40 @@
+# ============================================================
+#  requirements.txt
+#  Projet : Estimation de l'Âge à partir d'une Photo de Visage
+#  Auteurs : Ikram Boukhabza & Fatima El Ouazzani Thami
+#  Environnement testé : Kaggle (GPU P100)
+#  Python : 3.12.12
+# ============================================================
+
+# Deep Learning
+tensorflow==2.19.0
+keras==3.10.0
+
+# Calcul numérique
+numpy==2.0.2
+
+# Manipulation de données
+pandas==2.3.3
+
+# Machine Learning (métriques, split stratifié)
+scikit-learn==1.6.1
+
+# Traitement d'images
+opencv-python==4.13.0
+Pillow>=10.0.0
+
+# Visualisation
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Progression
+tqdm>=4.66.0
+
+# API Kaggle (téléchargement du dataset en local)
+kaggle>=1.6.0
+
+# ============================================================
+# Note : sur Kaggle, toutes ces librairies sont préinstallées.
+# Seuls opencv-python et tqdm sont installés manuellement :
+#   pip install opencv-python tqdm -q
+# ============================================================
